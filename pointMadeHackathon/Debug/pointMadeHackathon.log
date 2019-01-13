@@ -1,0 +1,43 @@
+﻿  pointMade.c
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(19): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(19): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(45): error C2198: 'determine_point': too few arguments for call
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(52): error C2198: 'determine_point': too few arguments for call
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(62): warning C4028: formal parameter 3 different from declaration
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(139): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(142): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\pointmade.c(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  main.c
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(32): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(38): warning C4047: 'function': 'char **' differs in levels of indirection from 'Keyword [10]'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(38): warning C4024: 'search_sentence': different types for formal and actual parameter 2
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(51): warning C4047: 'function': 'char **' differs in levels of indirection from 'Keyword [10]'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(51): warning C4024: 'search_sentence': different types for formal and actual parameter 2
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(84): warning C4047: 'function': 'char **' differs in levels of indirection from 'Keyword [10]'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(84): warning C4024: 'search_sentence': different types for formal and actual parameter 2
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\lamas family\downloads\new folder\pointmadehackathon\pointmadehackathon\main.c(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
